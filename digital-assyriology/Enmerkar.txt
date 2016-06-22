@@ -15,23 +15,23 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,13,sux:Aratta[1]SN sux:tug₂[garment]N sux
 c.1.8.2.4,Enmerkar and En-suhgir-ana,14,sux:ud[day(light)]N sux:ud[day(light)]N sux:en[lord]N sux:ŋi₆[night]N sux:barag[dais]N sux:Utu[1]DN sux:lugal[king]N
 c.1.8.2.4,Enmerkar and En-suhgir-ana,15,sux:sukkal[minister]N sux:en[lord]N sux:Aratta[1]SN sux:sukkal[minister]N sux:Ansiga-ria[1]PN sux:mu[name]N sux:me[to be]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,16,sux:sukkal[minister]N sux:Enmerkar[1]RN sux:en[lord]N sux:Kulaba[1]SN sux:Namena-tuma[1]PN sux:mu[name]N
-c.1.8.2.4,Enmerkar and En-suhgir-ana,17,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,18,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,19,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he, she]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,20,sux:lu₂[person]N sux:diŋir[deity]N sux:tud[to give birth]V sux:e-ne[he, she]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,21,sux:lu₂[person]N sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to go out or in]V sux:e-ne[he, she]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,17,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,18,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,19,sux:en[lord]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD sux:nun[prince]N sux:uru₁₆[to be towering]V sux:e-ne[he/ she]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,20,sux:lu₂[person]N sux:diŋir[deity]N sux:tud[to give birth]V sux:e-ne[he/ she]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,21,sux:lu₂[person]N sux:diŋir[deity]N sux:pa[branch]N sux:e₃[to go out or in]V sux:e-ne[he/ she]PD
 c.1.8.2.4,Enmerkar and En-suhgir-ana,22,sux:en[lord]N sux:Unug[1]SN sux:en[lord]N sux:Kulaba[1]SN sux:ur₅[that]PD sux:a-da-min₃[contest]N sux:dug₄[to say]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,23,sux:en[lord]N sux:Aratta[1]SN sux:En-suhgir-ana[1]RN
 c.1.8.2.4,Enmerkar and En-suhgir-ana,24,sux:igi[eye]N sux:igi[eye]N sux:Unug[1]SN sux:kiŋ₂-gi₄-a[messenger]N sux:inim[word]N sux:dug₄[to say]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,25,sux:e-ne[he, she]PD sux:ŋe₂₆[I]PD sux:gu₂[neck]N sux:ŋar[to place]V sux:šudul[yoke]N sux:il₂[to raise]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,26,sux:ud[day(light)]N sux:gu₂[neck]N sux:ŋar[to place]V sux:gu₂[neck]N sux:ŋar[to place]V sux:u₃[and]C sux:e-ne[he, she]PD sux:u₃[and]C sux:ŋe₂₆[I]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,27,sux:e-ne[he, she]PD sux:Inana[1]DN sux:e₂-ŋar₈[wall]N sux:til₃[to live]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,25,sux:e-ne[he/ she]PD sux:ŋe₂₆[I]PD sux:gu₂[neck]N sux:ŋar[to place]V sux:šudul[yoke]N sux:il₂[to raise]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,26,sux:ud[day(light)]N sux:gu₂[neck]N sux:ŋar[to place]V sux:gu₂[neck]N sux:ŋar[to place]V sux:u₃[and]C sux:e-ne[he/ she]PD sux:u₃[and]C sux:ŋe₂₆[I]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,27,sux:e-ne[he/ she]PD sux:Inana[1]DN sux:e₂-ŋar₈[wall]N sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,28,sux:ŋe₂₆[I]PD sux:Inana[1]DN sux:E-zagin[1]TN sux:Aratta[1]SN sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,29,sux:ŋiš-nu₂[bed]N sux:gi-rin[blossom]N sux:nu₂[to lie down]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,30,sux:še-er-ka-an[adornment]N sux:dug₄[to say]V sux:u₃[sleep]N sux:dug₃[to be good]V sux:ku[to lay down]V sux:nu₂[to lie down]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,31,sux:e-ne[he, she]PD sux:Inana[1]DN sux:ŋi₆[night]N sux:ma-mu₂[dream]N sux:igi[eye]N sux:du₈[to spread]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,31,sux:e-ne[he/ she]PD sux:Inana[1]DN sux:ŋi₆[night]N sux:ma-mu₂[dream]N sux:igi[eye]N sux:du₈[to spread]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,32,sux:ŋe₂₆[I]PD sux:Inana[1]DN sux:ŋiri₃[foot]N sux:babbar[white]AJ sux:inim[word]N sux:bal[to turn over]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,33,sux:e-ne[he, she]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,33,sux:e-ne[he/ she]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,34,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,35,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:nunuz[egg]N sux:ŋir₃-lam[basket]N sux:amar[calf]N sux:la₂[to hang]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,36,sux:tur[to be small]V sux:utul₂[tureen]N sux:gal[to be big]V sux:šen[type of vessel]N sux:mah[to be majestic]V
@@ -59,15 +59,15 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,54B,sux:En-suhgir-ana[1]RN sux:dug₄[to sa
 c.1.8.2.4,Enmerkar and En-suhgir-ana,54C,sux:lugal[king]N sux:a-na[what]PD sux:dug₄[to say]V sux:a-na[what]PD sux:tah[to add]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,54D,sux:En-suhgir-ana[1]RN sux:a-na[what]PD sux:dug₄[to say]V sux:a-na[what]PD sux:tah[to add]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,55,sux:lugal[king]N sux:dug₄[to say]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,56,sux:e-ne[he, she]PD sux:ŋe₂₆[I]PD sux:gu₂[neck]N sux:ŋar[to place]V sux:šudul[yoke]N sux:il₂[to raise]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,57,sux:ud[day(light)]N sux:gu₂[neck]N sux:ŋar[to place]V sux:gu₂[neck]N sux:ŋar[to place]V sux:u₃[and]C sux:e-ne[he, she]PD sux:u₃[and]C sux:ŋe₂₆[I]PD
-c.1.8.2.4,Enmerkar and En-suhgir-ana,58,sux:e-ne[he, she]PD sux:Inana[1]DN sux:e₂-ŋar₈[wall]N sux:til₃[to live]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,56,sux:e-ne[he/ she]PD sux:ŋe₂₆[I]PD sux:gu₂[neck]N sux:ŋar[to place]V sux:šudul[yoke]N sux:il₂[to raise]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,57,sux:ud[day(light)]N sux:gu₂[neck]N sux:ŋar[to place]V sux:gu₂[neck]N sux:ŋar[to place]V sux:u₃[and]C sux:e-ne[he/ she]PD sux:u₃[and]C sux:ŋe₂₆[I]PD
+c.1.8.2.4,Enmerkar and En-suhgir-ana,58,sux:e-ne[he/ she]PD sux:Inana[1]DN sux:e₂-ŋar₈[wall]N sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,59,sux:ŋe₂₆[I]PD sux:Inana[1]DN sux:E-zagin[1]TN sux:Aratta[1]SN sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,60,sux:ŋiš-nu₂[bed]N sux:gi-rin[blossom]N sux:nu₂[to lie down]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,61,sux:še-er-ka-an[adornment]N sux:dug₄[to say]V sux:u₃[sleep]N sux:dug₃[to be good]V sux:ku[to lay down]V sux:nu₂[to lie down]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,62,sux:e-ne[he, she]PD sux:Inana[1]DN sux:ŋi₆[night]N sux:ma-mu₂[dream]N sux:igi[eye]N sux:du₈[to spread]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,62,sux:e-ne[he/ she]PD sux:Inana[1]DN sux:ŋi₆[night]N sux:ma-mu₂[dream]N sux:igi[eye]N sux:du₈[to spread]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,63,sux:ŋe₂₆[I]PD sux:Inana[1]DN sux:ŋiri₃[foot]N sux:babbar[white]AJ sux:inim[word]N sux:bal[to turn over]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,64,sux:e-ne[he, she]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,64,sux:e-ne[he/ she]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,65,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,66,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:nunuz[egg]N sux:ŋir₃-lam[basket]N sux:amar[calf]N sux:la₂[to hang]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,67,sux:tur[to be small]V sux:utul₂[tureen]N sux:gal[to be big]V sux:šen[type of vessel]N sux:mah[to be majestic]V
@@ -81,7 +81,7 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,74,sux:šeg₁₂[brick(work)]N sux:e₂[ho
 c.1.8.2.4,Enmerkar and En-suhgir-ana,75,sux:gal[to be big]V sux:Aratta[1]SN sux:nam[destiny]N sux:mah[to be majestic]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,76,sux:DU[DU]V sux:ŋal₂[to be (located)]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,77,sux:im[clay]N sux:šu[hand]N sux:ra[to beat]V sux:im[clay]N sux:igi[eye]N sux:bar[to set aside]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,78,sux:e-ne[he, she]PD sux:Inana[1]DN sux:E-zagin[1]TN sux:Aratta[1]SN sux:til₃[to live]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,78,sux:e-ne[he/ she]PD sux:Inana[1]DN sux:E-zagin[1]TN sux:Aratta[1]SN sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,79,sux:ŋe₂₆[I]PD sux:an[heaven]N sux:ki[place]N sux:gub[to stand]V sux:til₃[to live]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,80,sux:še-er-ka-an[adornment]N sux:dug₄[to say]V sux:u₃[sleep]N sux:dug₃[to be good]V sux:ku[to lay down]V sux:nu₂[to lie down]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,81,sux:ŋe₂₆[I]PD sux:ŋiš-nu₂[bed]N sux:gi-rin[blossom]N sux:Inana[1]DN sux:u₂[plant]N sux:za-gin₃[lapis lazuli]N sux:barag[dais]N
@@ -111,7 +111,7 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,104,sux:mu[year]N sux:5[5]NU sux:mu[year]N 
 c.1.8.2.4,Enmerkar and En-suhgir-ana,105,sux:ud[day(light)]N sux:Aratta[1]SN sux:ŋen[to go]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,106,sux:kug[shining]AJ sux:gal[to be big]V sux:nin[lady]N sux:E-ana[1]TN
 c.1.8.2.4,Enmerkar and En-suhgir-ana,107,sux:ad[voice]N sux:gi₄[to return]V sux:inim[word]N sux:zu[to know]V sux:dug₄[to say]V sux:Aratta[1]SN sux:ŋen[to go]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,108,sux:e-ne[he, she]PD sux:tuku[to have]V sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,108,sux:e-ne[he/ she]PD sux:tuku[to have]V sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,109,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:še[barley]N sux:gu₇[to eat]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,110,sux:ŋe₂₆[I]PD sux:kur-gi₄[goose]N sux:nunuz[egg]N sux:ŋir₃-lam[basket]N sux:amar[calf]N sux:la₂[to hang]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,111,sux:tur[to be small]V sux:utul₂[tureen]N sux:gal[to be big]V sux:šen[type of vessel]N sux:mah[to be majestic]V
@@ -151,7 +151,7 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,144,sux:itima[(sleeping) chamber]N sux:Arat
 c.1.8.2.4,Enmerkar and En-suhgir-ana,145,sux:inim[word]N sux:Unug[1]SN sux:tag[to touch]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,146,sux:erin₂[group of people]N sux:gal[to be big]V sux:sig[to be low]V sux:igi-nim[upper land]N sux:ab[sea]N sux:kur[(mountain) land]N sux:erin[cedar]N
 c.1.8.2.4,Enmerkar and En-suhgir-ana,147,sux:igi-nim[upper land]N sux:kur[(mountain) land]N sux:šim[aromatic (fragrance)]N sux:erin[cedar]N sux:gu₂[neck]N sux:ŋar[to place]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,148,sux:Unug[1]SN sux:niŋ₂-gur₁₁[possessions]N sux:ni₂-bi[itself, themselves]PD sux:ma₂[boat]N sux:gid₂[to be long]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,148,sux:Unug[1]SN sux:niŋ₂-gur₁₁[possessions]N sux:ni₂-bi[itself/ themselves]PD sux:ma₂[boat]N sux:gid₂[to be long]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,149,sux:ma₂[boat]N sux:la₂[to hang]V sux:E-zagin[1]TN sux:Aratta[1]SN
 c.1.8.2.4,Enmerkar and En-suhgir-ana,150,sux:sukkal[minister]N sux:Ansiga-ria[1]PN sux:iri[town]N sux:zig₃[to rise]V sux:šub[to fall]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,151,sux:lu₂[person]N sux:Ansiga-ria[1]PN sux:dug₄[to say]V
@@ -164,7 +164,7 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,157,sux:itima[(sleeping) chamber]N sux:Arat
 c.1.8.2.4,Enmerkar and En-suhgir-ana,158,sux:inim[word]N sux:Unug[1]SN sux:tag[to touch]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,159,sux:erin₂[group of people]N sux:gal[to be big]V sux:sig[to be low]V sux:igi-nim[upper land]N sux:ab[sea]N sux:kur[(mountain) land]N sux:erin[cedar]N
 c.1.8.2.4,Enmerkar and En-suhgir-ana,160,sux:igi-nim[upper land]N sux:kur[(mountain) land]N sux:šim[aromatic (fragrance)]N sux:erin[cedar]N sux:gu₂[neck]N sux:ŋar[to place]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,161,sux:Unug[1]SN sux:niŋ₂-gur₁₁[possessions]N sux:ni₂-bi[itself, themselves]PD sux:ma₂[boat]N sux:gid₂[to be long]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,161,sux:Unug[1]SN sux:niŋ₂-gur₁₁[possessions]N sux:ni₂-bi[itself/ themselves]PD sux:ma₂[boat]N sux:gid₂[to be long]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,162,sux:ma₂[boat]N sux:la₂[to hang]V sux:E-zagin[1]TN sux:Aratta[1]SN
 c.1.8.2.4,Enmerkar and En-suhgir-ana,163,sux:en[lord]N sux:hul₂[to be happy]V sux:ŋar[to place]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,164,sux:5[5]NU sux:ma-na[weight measure]N sux:kug-sig₁₇[gold]N sux:šum₂[to give]V
@@ -287,10 +287,10 @@ c.1.8.2.4,Enmerkar and En-suhgir-ana,280,sux:ŋe₂₆[I]PD sux:sa₂[to equal]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,281,sux:Enmerkar[1]RN sux:En-suhgir-ana[1]RN sux:a-da-min₃[contest]N sux:dug₄[to say]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,282,sux:Enmerkar[1]RN sux:En-suhgir-ana[1]RN sux:dirig[to be superior]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,283,sux:Nisaba[1]DN sux:za₃-mi₂[praise]N
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B1,
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B2,
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B3,sux:dug₄[to say]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B4,sux:maš-maš[sorcerer]N sux:ki[place]N sux:en[lord]N sux:lu₂[person]N sux:kur₉[to enter]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B5,sux:Ur-ŋiri-nuna[1]PN sux:ki[place]N sux:en[lord]N sux:lu₂[person]N sux:kur₉[to enter]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B6,sux:maš-maš[sorcerer]N sux:sukkal[minister]N sux:Ansiga-ria[1]PN sux:dug₄[to say]V
-c.1.8.2.4,Enmerkar and En-suhgir-ana,B7,
+c.1.8.2.4,Enmerkar and En-suhgir-ana,300,
+c.1.8.2.4,Enmerkar and En-suhgir-ana,301,
+c.1.8.2.4,Enmerkar and En-suhgir-ana,302,sux:dug₄[to say]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,303,sux:maš-maš[sorcerer]N sux:ki[place]N sux:en[lord]N sux:lu₂[person]N sux:kur₉[to enter]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,304,sux:Ur-ŋiri-nuna[1]PN sux:ki[place]N sux:en[lord]N sux:lu₂[person]N sux:kur₉[to enter]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,305,sux:maš-maš[sorcerer]N sux:sukkal[minister]N sux:Ansiga-ria[1]PN sux:dug₄[to say]V
+c.1.8.2.4,Enmerkar and En-suhgir-ana,306,
