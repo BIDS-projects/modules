@@ -1,4 +1,4 @@
-etcsl_no, text_name, l_no, text
+etcsl_no,text_name,l_no,text
 c.1.8.2.4,Enmerkar and En-suhgir-ana,1,sux:šeg₁₂[brick(work)]N sux:kur[(mountain) land]N sux:šuba[shining]AJ sux:e₃[to go out or in]V sux:šeg₁₂[brick(work)]N sux:muš₃[flat space]N sux:za-gin₃[lapis lazuli]N sux:e₃[to go out or in]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,2,sux:Kulaba[1]SN sux:iri[town]N sux:an[heaven]N sux:ki[place]N sux:mu₂[to grow]V
 c.1.8.2.4,Enmerkar and En-suhgir-ana,3,sux:Unug[1]SN sux:mu[name]N sux:tir-an-na[rainbow]N
